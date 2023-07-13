@@ -1,0 +1,66 @@
+body {
+  background-color: #ffffff;
+}
+
+.logo {
+  width: 13em;
+  height: 63px;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h1 strong {
+  font-weight: 600;
+  color: #2852b3;
+}
+
+h1 stronk {
+  font-weight: 600;
+  color: #000000;
+}
+
+.inputstyle {
+  padding: 20px !important;
+}
+
+.whoop {
+  background-color: #5fd068;
+  width: 8em;
+  font-size: 30px !important;
+  color: #ffffff;
+}
+
+.caloriescont {
+  background-color: #d8d8d8;
+  padding: 30px;
+}
+
+.caloriescont ul {
+  padding: 0px;
+}
+
+.caloriescont ul li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  width: 80%;
+}
+
+.caloriescont h3 {
+  color: #2852b3;
+  font-size: 2em;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.caloriescont h5 {
+  color: #2852b3;
+}
+
+.servingsize {
+  background-color: #000000;
+  padding: 10px;
+  color: #ffffff;
+}

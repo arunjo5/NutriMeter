@@ -1,0 +1,12 @@
+asgiref==3.7.2
+certifi==2023.5.7
+charset-normalizer==3.2.0
+Django==4.2.3
+django-humanize==0.1.2
+django-mathfilters==1.0.0
+humanize==4.7.0
+idna==3.4
+requests==2.31.0
+sqlparse==0.4.4
+typing_extensions==4.7.1
+urllib3==2.0.3
