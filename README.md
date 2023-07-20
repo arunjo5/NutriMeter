@@ -15,5 +15,4 @@ Apply migrations: `python manage.py migrations`
 
 Run the app:   `python manage.py runserver`
 
-
-
+<img width="585" alt="Home Page:" src="https://github.com/arunjo5/NutriMeter/assets/136642643/608df416-b771-43b3-aa6b-1e458eeaf758">
